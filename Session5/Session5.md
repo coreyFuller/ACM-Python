@@ -1,3 +1,3 @@
-#This is what we've all been waiting for.
+This is what we've all been waiting for.
 ----
-##For this session please pip install pygame.
+For this session please pip install pygame.
